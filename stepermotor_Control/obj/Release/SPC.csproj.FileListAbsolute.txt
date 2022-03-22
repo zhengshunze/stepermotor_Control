@@ -1,0 +1,11 @@
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Release\SPC.exe.config
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Release\SPC.exe
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Release\SPC.pdb
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.csprojAssemblyReference.cache
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.Form1.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.Form2.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.Properties.Resources.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.csproj.GenerateResource.cache
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.csproj.CoreCompileInputs.cache
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.exe
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Release\SPC.pdb

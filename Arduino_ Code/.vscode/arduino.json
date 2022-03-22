@@ -1,0 +1,6 @@
+{
+    "sketch": "stepprt.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "arduino.defaultBaudRate": 500000 
+}

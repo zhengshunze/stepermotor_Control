@@ -1,0 +1,160 @@
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe.config
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.pdb
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csprojAssemblyReference.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form1.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form2.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form3.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Properties.Resources.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.pdb
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe.config
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.pdb
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form1.resources
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form2.resources
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form3.resources
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Properties.Resources.resources
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.exe
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.pdb
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form4.resources
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csprojAssemblyReference.cache
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csprojAssemblyReference.cache
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form1.resources
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form2.resources
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form3.resources
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form4.resources
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Properties.Resources.resources
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.GenerateResource.cache
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CoreCompileInputs.cache
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.exe
+G:\SPC\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.pdb
+G:\SPC\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe.config
+G:\SPC\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe
+G:\SPC\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.pdb
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CopyComplete
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cublas64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cudart64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cufft64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cvextern.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\msvcp120.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\msvcr120.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\nppc64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\nppi64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\npps64_75.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_aruco310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_bgsegm310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_calib3d310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ccalib310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_core310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudaarithm310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudabgsegm310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudacodec310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudafeatures2d310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudafilters310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudaimgproc310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudalegacy310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudaobjdetect310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudaoptflow310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudastereo310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudawarping310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_cudev310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_datasets310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_dnn310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_face310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_features2d310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ffmpeg310_64.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_flann310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_fuzzy310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_highgui310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_imgcodecs310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_imgproc310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_line_descriptor310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ml310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_objdetect310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_optflow310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_photo310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_plot310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_reg310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_rgbd310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_shape310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_stereo310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_stitching310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_structured_light310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_superres310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_surface_matching310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_text310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_tracking310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_video310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_videoio310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_videostab310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_xfeatures2d310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ximgproc310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_xobjdetect310.dll
+C:\Users\ZEZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_xphoto310.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\ZedGraph.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.xml
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.GL.xml
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.xml
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csprojAssemblyReference.cache
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form1.resources
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form2.resources
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form3.resources
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form4.resources
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Properties.Resources.resources
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.GenerateResource.cache
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CoreCompileInputs.cache
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CopyComplete
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.exe
+E:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.pdb
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csprojAssemblyReference.cache
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form1.resources
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form2.resources
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form3.resources
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form4.resources
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Properties.Resources.resources
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.GenerateResource.cache
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CoreCompileInputs.cache
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.exe
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.pdb
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe.config
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.pdb
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.GL.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\ZedGraph.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.xml
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.GL.xml
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.xml
+G:\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CopyComplete
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe.config
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.exe
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\SPC.pdb
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\vcruntime140.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\concrt140.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cvextern.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\msvcp140.dll
+E:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ffmpeg320_64.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\vcruntime140.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\concrt140.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cvextern.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\msvcp140.dll
+G:\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ffmpeg320_64.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\vcruntime140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\concrt140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\cvextern.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\msvcp140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\opencv_ffmpeg320_64.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\ZedGraph.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.Form4.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\x64\Debug\SPC.csproj.CopyComplete

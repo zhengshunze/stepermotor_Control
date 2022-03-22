@@ -1,0 +1,53 @@
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.Form1.resources
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.csprojAssemblyReference.cache
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SPC.exe.config
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SPC.exe
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SPC.pdb
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.Properties.Resources.resources
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.exe
+C:\Users\zeze\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SPC.pdb
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe.config
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.pdb
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csprojAssemblyReference.cache
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form1.resources
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Properties.Resources.resources
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.exe
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.pdb
+C:\Users\zeze\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form2.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe.config
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.pdb
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form1.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form2.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Properties.Resources.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.pdb
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form3.resources
+C:\Users\ZHENG SHUNZE\source\repos\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csprojAssemblyReference.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe.config
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\SPC.pdb
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csprojAssemblyReference.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form1.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form2.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form3.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Properties.Resources.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.GenerateResource.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.CoreCompileInputs.cache
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.exe
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.pdb
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\vcruntime140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\concrt140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\cvextern.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\msvcp140.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\bin\Debug\ZedGraph.dll
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.Form4.resources
+C:\Users\ZHENG SHUNZE\Desktop\stepermotor_Control\stepermotor_Control\obj\Debug\SPC.csproj.CopyComplete
